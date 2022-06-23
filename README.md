@@ -2,7 +2,7 @@
 </h1>
 
 ### A little about me...
-Full Stack Developer with 7+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I am a Technology Managet with 7+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 
 ### A few quick facts
 - 🔭 &nbsp; I’m currently working with Nodejs, Express, React,
