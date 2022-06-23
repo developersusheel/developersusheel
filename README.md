@@ -9,6 +9,6 @@ I'm a **Technology - Manager** at **[MSLGROUP]**. I'm a *Tech Enthusiast* passio
 Graphql, Mongodb, Javascript etc.
 - 🌱 &nbsp; I’m currently learning System Design
 - 😄 &nbsp; Pronouns: developer, coder
-- 💬 &nbsp; Ask me about anything, I am happy to help
+- 💬 &nbsp; Ask me about anything, I am happy to help at developer.susheel@gmail.com
 
-### Projects and dev stuffs:
+
