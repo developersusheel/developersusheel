@@ -2,7 +2,7 @@
 </h1>
 
 ### A little about me...
-I'm a **Technology - Manager** at **[MSLGROUP]**. I'm a *Tech Enthusiast* passionate about learning and working with new technologies.<br/>
+Full Stack Developer with 7+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 
 ### A few quick facts
 - 🔭 &nbsp; I’m currently working with Nodejs, Express, React,
