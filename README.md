@@ -10,10 +10,10 @@ I apply my technical skills to develop applications and systems along with contr
 ### Skills
 ReactJs, NodeJs, Express, JavaScript, MongoDB, GSAP, SCSS, HTML5, CSS3, Unit Testing, PHP, Shopify, Custom WordPress, AR Filters, React Native 
 
-<br/><br/>
+
 ### Tools
 Git, Gulp, Docker, Figma, Adobe Photoshop, AI, AdobeXD, Balasmiq, AR Spark
 
-<br/><br/>
+
 ### Methodologies
 Agile, Kanban, Waterfall, Scrum
