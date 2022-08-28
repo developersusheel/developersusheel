@@ -6,14 +6,14 @@ I am a collaborative and solution-driven technology manager with over 7+ years o
 
 I apply my technical skills to develop applications and systems along with contributing to the team in a way that positively impacts the organisation and clients.
 
-<br/>
+
 ### Skills
 ReactJs, NodeJs, Express, JavaScript, MongoDB, GSAP, SCSS, HTML5, CSS3, Unit Testing, PHP, Shopify, Custom WordPress, AR Filters, React Native 
 
-<br/>
+<br/><br/>
 ### Tools
 Git, Gulp, Docker, Figma, Adobe Photoshop, AI, AdobeXD, Balasmiq, AR Spark
 
-<br/>
+<br/><br/>
 ### Methodologies
 Agile, Kanban, Waterfall, Scrum
